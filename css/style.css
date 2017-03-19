@@ -398,6 +398,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-home, #fh5co-home .text-wrap {
   height: 60vh;
 }
+
 #fh5co-home .text-wrap {
   display: table;
   width: 100%;
@@ -484,14 +485,14 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-intro {
   position: relative;
   bottom: 0;
-  margin-top: -150px;
+  margin-top: -100px;
   z-index: 10;
   padding-bottom: 7em;
 }
 @media screen and (max-width: 768px) {
   #fh5co-intro {
     padding-bottom: 3em;
-    margin-top: -100px;
+    margin-top: -80px;
   }
 }
 #fh5co-intro > div {
@@ -509,7 +510,7 @@ h1, h2, h3, h4, h5, h6 {
   float: left;
   text-align: center;
   font-size: 16px;
-  min-height: 300px;
+  min-height: 390px;
   vertical-align: middle;
   padding: 40px;
   background: #fff;
@@ -695,6 +696,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-services .fh5co-service {
   padding-right: 30px;
+  min-height: 320px;
 }
 #fh5co-services h3 {
   font-size: 24px;
@@ -937,7 +939,7 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(255, 255, 255, 0.3);
 }
 #fh5co-work .section-heading h3 {
-  color: rgba(255, 255, 255, 0.8);
+  color: #fff;
 }
 #fh5co-work .fh5co-project-item {
   display: block;
