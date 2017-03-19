@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Kotaicode UG</title>
+    <link>https://kotaicode.github.io/tags/test/index.xml</link>
+    <description>Recent content in Test on Kotaicode UG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://kotaicode.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://kotaicode.github.io/blog/sample_content/</link>
+      <pubDate>Sat, 18 Mar 2017 18:00:00 +0000</pubDate>
+      
+      <guid>https://kotaicode.github.io/blog/sample_content/</guid>
+      <description>
+
+&lt;h2 id=&#34;first-rule&#34;&gt;First Rule&lt;/h2&gt;
+
+&lt;p&gt;We keep everything in markdown.&lt;/p&gt;
+
+&lt;h3 id=&#34;side-note&#34;&gt;Side Note&lt;/h3&gt;
+
+&lt;p&gt;Sometimes, it is not possible to show all that we want via MD. So, we will be tempted to use HTML.&lt;/p&gt;
+
+&lt;p&gt;Then the optinos are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Choose not to do it,&lt;/li&gt;
+&lt;li&gt;Take the CSS and update it to support that what we want.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;most-important&#34;&gt;Most important&lt;/h3&gt;
+
+&lt;p&gt;The most important items we need would be &lt;code&gt;Code Snippets&lt;/code&gt;. They are readily supported as below (use three back ticks &amp;ldquo;`&amp;ldquo;)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;      int main() {
+          printf(&amp;quot;Hello World\n&amp;quot;);
+          return 0;
+      }
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;images&#34;&gt;Images?&lt;/h4&gt;
+
+&lt;p&gt;Please avoid creating a new standard for stuff. See here&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgs.xkcd.com/comics/standards.png&#34; alt=&#34;No new standards please&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;new-blog-entry&#34;&gt;New blog entry?&lt;/h2&gt;
+
+&lt;p&gt;Simply do &lt;code&gt;hugo new blog/name-of-post.md&lt;/code&gt; and you will have created &lt;code&gt;content/blog/name-of-post.md&lt;/code&gt;. Please fill in the necessary details (use &lt;code&gt;content/blog/sample_content.md&lt;/code&gt; as a reference).
+Hugo will automatically take care of ordering them based on timestamps.&lt;/p&gt;
+
+&lt;p&gt;You can add &lt;code&gt;tags&lt;/code&gt; or &lt;code&gt;categories&lt;/code&gt; as you would like to.&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; Sandeep.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

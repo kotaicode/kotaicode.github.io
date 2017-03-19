@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://kotaicode.github.io/blog/sample_content/</loc>
+    <lastmod>2017-03-18T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kotaicode.github.io/blog/</loc>
+    <lastmod>2017-03-18T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kotaicode.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kotaicode.github.io/categories/hello/</loc>
+    <lastmod>2017-03-18T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kotaicode.github.io/</loc>
+    <lastmod>2017-03-18T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kotaicode.github.io/tags/sample/</loc>
+    <lastmod>2017-03-18T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kotaicode.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kotaicode.github.io/tags/test/</loc>
+    <lastmod>2017-03-18T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kotaicode.github.io/categories/world/</loc>
+    <lastmod>2017-03-18T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
