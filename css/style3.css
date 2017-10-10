@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -610,11 +610,11 @@ h1, h2, h3, h4, h5, h6 {
   transform: scale(1.1);
 }
 
-#fh5co-services, #fh5co-testimonials, #fh5co-counters, #fh5co-work, #fh5co-contact, #fh5co-about {
+#fh5co-services, #fh5co-testimonials, #fh5co-counters, #fh5co-work, #fh5co-contact, #fh5co-about, #fh5co-team {
   padding: 4em 0;
 }
 @media screen and (max-width: 768px) {
-  #fh5co-services, #fh5co-testimonials, #fh5co-counters, #fh5co-work, #fh5co-contact, #fh5co-about {
+  #fh5co-services, #fh5co-testimonials, #fh5co-counters, #fh5co-work, #fh5co-contact, #fh5co-about, #fh5co-team {
     padding: 2em 0;
   }
 }
@@ -1003,6 +1003,13 @@ h1, h2, h3, h4, h5, h6 {
   color: #b3b3b3;
   display: block;
   margin-bottom: 20px;
+}
+
+.fh5co-position-small {
+  color: #b3b3b3;
+  display: block;
+  margin-bottom: 20px;
+  font-size: 16px;
 }
 
 .form-control {

@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -281,6 +281,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #fh5co-our-services,
 #fh5co-about-us,
+#fh5co-team-us,
 #fh5co-features,
 #fh5co-testimonials,
 #fh5co-pricing,
@@ -290,6 +291,7 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 480px) {
   #fh5co-our-services,
   #fh5co-about-us,
+  #fh5co-team-us,
   #fh5co-features,
   #fh5co-testimonials,
   #fh5co-pricing,
