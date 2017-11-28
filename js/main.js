@@ -168,7 +168,7 @@
 							},  k * 200, 'easeInOutExpo' );
 
 						});
-					}, 200);
+					}, 100);
 
 
 					$(this.element).addClass('animated');
@@ -197,7 +197,7 @@
 							},  k * 200, 'easeInOutExpo' );
 
 						});
-					}, 1000);
+					}, 500);
 
 
 					$(this.element).addClass('animated');
@@ -288,7 +288,7 @@
 				if( direction === 'down' && !$(this.element).hasClass('animated') ) {
 
 					var sec = services.find('.to-animate').length,
-						sec = parseInt((sec * 200) + 400);
+						sec = parseInt((sec * 100) + 400);
 
 					setTimeout(function() {
 						services.find('.to-animate').each(function( k ) {
@@ -337,7 +337,7 @@
 
 							setTimeout ( function () {
 								el.addClass('fadeInUp animated');
-							},  k * 200, 'easeInOutExpo' );
+							},  k * 100, 'easeInOutExpo' );
 
 						});
 					}, 200);
@@ -367,10 +367,10 @@
 
 							setTimeout ( function () {
 								el.addClass('fadeInUp animated');
-							},  k * 200, 'easeInOutExpo' );
+							},  k * 150, 'easeInOutExpo' );
 
 						});
-					}, 200);
+					}, 150);
 
 
 
@@ -450,10 +450,10 @@
 
 							setTimeout ( function () {
 								el.addClass('fadeInUp animated');
-							},  k * 200, 'easeInOutExpo' );
+							},  k * 150, 'easeInOutExpo' );
 
 						});
-					}, 200);
+					}, 150);
 
 					$(this.element).addClass('animated');
 

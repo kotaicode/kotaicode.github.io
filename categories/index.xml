@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Kotaicode UG</title>
+    <link>https://kotaicode.github.io/categories/</link>
+    <description>Recent content in Categories on Kotaicode UG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://kotaicode.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>German</title>
+      <link>https://kotaicode.github.io/categories/german/</link>
+      <pubDate>Sun, 01 Jan 2017 18:00:00 +0000</pubDate>
+      
+      <guid>https://kotaicode.github.io/categories/german/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://kotaicode.github.io/categories/hello/</link>
+      <pubDate>Sat, 18 Mar 2017 18:00:00 +0000</pubDate>
+      
+      <guid>https://kotaicode.github.io/categories/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legal</title>
+      <link>https://kotaicode.github.io/categories/legal/</link>
+      <pubDate>Sun, 01 Jan 2017 18:00:00 +0000</pubDate>
+      
+      <guid>https://kotaicode.github.io/categories/legal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World</title>
+      <link>https://kotaicode.github.io/categories/world/</link>
+      <pubDate>Sat, 18 Mar 2017 18:00:00 +0000</pubDate>
+      
+      <guid>https://kotaicode.github.io/categories/world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
