@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Legal on Kotaicode UG</title>
-    <link>https://kotaicode.github.io/categories/legal/</link>
-    <description>Recent content in Legal on Kotaicode UG</description>
+    <title>legal on Kotaicode UG</title>
+    <link>https://kotaico.de/categories/legal/</link>
+    <description>Recent content in legal on Kotaicode UG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 18:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kotaicode.github.io/categories/legal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kotaico.de/categories/legal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Impressum</title>
-      <link>https://kotaicode.github.io/static/impressum/</link>
+      <link>https://kotaico.de/static/impressum/</link>
       <pubDate>Sun, 01 Jan 2017 18:00:00 +0000</pubDate>
       
-      <guid>https://kotaicode.github.io/static/impressum/</guid>
-      <description>Kotaicode UG (Haftungsbeschränkt) Heidestraße 131 60385 Frankfurt am Main  Telefon: +4917666645928 E-Mail: core@kotaico.de  Vertreten durch: Geschäftsführer:
- Herr Leicher Dr Sadanandan  Registereintrag:  Eingetragen im Handelsregister. Registergericht: Frankfurt am Main Registernummer: 106940  Disclaimer – rechtliche Hinweise  Warnhinweis zu Inhalten  Die kostenlosen und frei zugänglichen Inhalte dieser Webseite wurden mit größtmöglicher Sorgfalt erstellt. Der Anbieter dieser Webseite übernimmt jedoch keine Gewähr für die Richtigkeit und Aktualität der bereitgestellten kostenlosen und frei zugänglichen journalistischen Ratgeber und Nachrichten.</description>
+      <guid>https://kotaico.de/static/impressum/</guid>
+      <description>Impressum &amp;ndash; we must have it ready.</description>
     </item>
     
   </channel>

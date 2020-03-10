@@ -3,90 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kotaicode.github.io/blog/sample_content/</loc>
+    <loc>https://kotaico.de/blog/</loc>
     <lastmod>2017-03-18T18:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kotaicode.github.io/static/impressum/</loc>
-    <lastmod>2017-01-01T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kotaicode.github.io/blog/</loc>
+    <loc>https://kotaico.de/categories/</loc>
     <lastmod>2017-03-18T18:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kotaicode.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kotaicode.github.io/tags/german/</loc>
-    <lastmod>2017-01-01T18:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kotaicode.github.io/categories/german/</loc>
-    <lastmod>2017-01-01T18:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kotaicode.github.io/categories/hello/</loc>
+    <loc>https://kotaico.de/categories/hello/</loc>
     <lastmod>2017-03-18T18:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kotaicode.github.io/</loc>
+    <loc>https://kotaico.de/blog/sample_content/</loc>
     <lastmod>2017-03-18T18:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kotaicode.github.io/tags/legal/</loc>
-    <lastmod>2017-01-01T18:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kotaicode.github.io/categories/legal/</loc>
-    <lastmod>2017-01-01T18:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kotaicode.github.io/tags/sample/</loc>
+    <loc>https://kotaico.de/</loc>
     <lastmod>2017-03-18T18:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kotaicode.github.io/static/</loc>
-    <lastmod>2017-01-01T18:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kotaicode.github.io/tags/</loc>
-    <lastmod>2017-01-01T18:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kotaicode.github.io/tags/test/</loc>
+    <loc>https://kotaico.de/tags/sample/</loc>
     <lastmod>2017-03-18T18:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kotaicode.github.io/categories/world/</loc>
+    <loc>https://kotaico.de/tags/</loc>
     <lastmod>2017-03-18T18:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kotaico.de/tags/test/</loc>
+    <lastmod>2017-03-18T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kotaico.de/categories/world/</loc>
+    <lastmod>2017-03-18T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kotaico.de/categories/german/</loc>
+    <lastmod>2017-01-01T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kotaico.de/tags/german/</loc>
+    <lastmod>2017-01-01T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kotaico.de/static/impressum/</loc>
+    <lastmod>2017-01-01T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kotaico.de/tags/legal/</loc>
+    <lastmod>2017-01-01T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kotaico.de/categories/legal/</loc>
+    <lastmod>2017-01-01T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kotaico.de/static/</loc>
+    <lastmod>2017-01-01T18:00:00+00:00</lastmod>
   </url>
   
 </urlset>

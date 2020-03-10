@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kotaicode UG</title>
-    <link>https://kotaicode.github.io/tags/</link>
+    <link>https://kotaico.de/tags/</link>
     <description>Recent content in Tags on Kotaicode UG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Mar 2017 18:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kotaicode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kotaico.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>German</title>
-      <link>https://kotaicode.github.io/tags/german/</link>
-      <pubDate>Sun, 01 Jan 2017 18:00:00 +0000</pubDate>
-      
-      <guid>https://kotaicode.github.io/tags/german/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Legal</title>
-      <link>https://kotaicode.github.io/tags/legal/</link>
-      <pubDate>Sun, 01 Jan 2017 18:00:00 +0000</pubDate>
-      
-      <guid>https://kotaicode.github.io/tags/legal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sample</title>
-      <link>https://kotaicode.github.io/tags/sample/</link>
+      <title>sample</title>
+      <link>https://kotaico.de/tags/sample/</link>
       <pubDate>Sat, 18 Mar 2017 18:00:00 +0000</pubDate>
       
-      <guid>https://kotaicode.github.io/tags/sample/</guid>
+      <guid>https://kotaico.de/tags/sample/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://kotaicode.github.io/tags/test/</link>
+      <title>test</title>
+      <link>https://kotaico.de/tags/test/</link>
       <pubDate>Sat, 18 Mar 2017 18:00:00 +0000</pubDate>
       
-      <guid>https://kotaicode.github.io/tags/test/</guid>
+      <guid>https://kotaico.de/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>german</title>
+      <link>https://kotaico.de/tags/german/</link>
+      <pubDate>Sun, 01 Jan 2017 18:00:00 +0000</pubDate>
+      
+      <guid>https://kotaico.de/tags/german/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>legal</title>
+      <link>https://kotaico.de/tags/legal/</link>
+      <pubDate>Sun, 01 Jan 2017 18:00:00 +0000</pubDate>
+      
+      <guid>https://kotaico.de/tags/legal/</guid>
       <description></description>
     </item>
     

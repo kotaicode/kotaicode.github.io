@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sample on Kotaicode UG</title>
-    <link>https://kotaicode.github.io/tags/sample/</link>
-    <description>Recent content in Sample on Kotaicode UG</description>
+    <title>sample on Kotaicode UG</title>
+    <link>https://kotaico.de/tags/sample/</link>
+    <description>Recent content in sample on Kotaicode UG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Mar 2017 18:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kotaicode.github.io/tags/sample/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kotaico.de/tags/sample/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>https://kotaicode.github.io/blog/sample_content/</link>
+      <link>https://kotaico.de/blog/sample_content/</link>
       <pubDate>Sat, 18 Mar 2017 18:00:00 +0000</pubDate>
       
-      <guid>https://kotaicode.github.io/blog/sample_content/</guid>
-      <description>First Rule We keep everything in markdown.
-Side Note Sometimes, it is not possible to show all that we want via MD. So, we will be tempted to use HTML.
-Then the optinos are:
- Choose not to do it, Take the CSS and update it to support that what we want.  Most important The most important items we need would be Code Snippets. They are readily supported as below (use three back ticks &amp;ldquo;`&amp;ldquo;)</description>
+      <guid>https://kotaico.de/blog/sample_content/</guid>
+      <description>Here we try to say hello to world.</description>
     </item>
     
   </channel>
