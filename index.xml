@@ -17,7 +17,10 @@
       <pubDate>Sat, 18 Mar 2017 18:00:00 +0000</pubDate>
       
       <guid>https://kotaico.de/blog/sample_content/</guid>
-      <description>Here we try to say hello to world.</description>
+      <description>First Rule We keep everything in markdown.
+Side Note Sometimes, it is not possible to show all that we want via MD. So, we will be tempted to use HTML.
+Then the optinos are:
+ Choose not to do it, Take the CSS and update it to support that what we want.  Most important The most important items we need would be Code Snippets. They are readily supported as below (use three back ticks &amp;ldquo;`&amp;ldquo;)</description>
     </item>
     
     <item>
@@ -26,7 +29,8 @@
       <pubDate>Sun, 01 Jan 2017 18:00:00 +0000</pubDate>
       
       <guid>https://kotaico.de/static/impressum/</guid>
-      <description>Impressum &amp;ndash; we must have it ready.</description>
+      <description>Kotaicode UG (Haftungsbeschränkt) Heidestraße 131 60385 Frankfurt am Main  Telefon: +4917623590262 E-Mail: core@kotaico.de  Vertreten durch: Geschäftsführer:
+ Herr Leicher Dr Sadanandan  Registereintrag:  Eingetragen im Handelsregister. Registergericht: Frankfurt am Main Registernummer: 106940  Disclaimer – rechtliche Hinweise  Warnhinweis zu Inhalten  Die kostenlosen und frei zugänglichen Inhalte dieser Webseite wurden mit größtmöglicher Sorgfalt erstellt. Der Anbieter dieser Webseite übernimmt jedoch keine Gewähr für die Richtigkeit und Aktualität der bereitgestellten kostenlosen und frei zugänglichen journalistischen Ratgeber und Nachrichten.</description>
     </item>
     
   </channel>

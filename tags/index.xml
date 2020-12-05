@@ -6,31 +6,13 @@
     <description>Recent content in Tags on Kotaicode UG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Mar 2017 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 18:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kotaico.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>sample</title>
-      <link>https://kotaico.de/tags/sample/</link>
-      <pubDate>Sat, 18 Mar 2017 18:00:00 +0000</pubDate>
-      
-      <guid>https://kotaico.de/tags/sample/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://kotaico.de/tags/test/</link>
-      <pubDate>Sat, 18 Mar 2017 18:00:00 +0000</pubDate>
-      
-      <guid>https://kotaico.de/tags/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>german</title>
+      <title>German</title>
       <link>https://kotaico.de/tags/german/</link>
       <pubDate>Sun, 01 Jan 2017 18:00:00 +0000</pubDate>
       
@@ -39,11 +21,29 @@
     </item>
     
     <item>
-      <title>legal</title>
+      <title>Legal</title>
       <link>https://kotaico.de/tags/legal/</link>
       <pubDate>Sun, 01 Jan 2017 18:00:00 +0000</pubDate>
       
       <guid>https://kotaico.de/tags/legal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample</title>
+      <link>https://kotaico.de/tags/sample/</link>
+      <pubDate>Sat, 18 Mar 2017 18:00:00 +0000</pubDate>
+      
+      <guid>https://kotaico.de/tags/sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://kotaico.de/tags/test/</link>
+      <pubDate>Sat, 18 Mar 2017 18:00:00 +0000</pubDate>
+      
+      <guid>https://kotaico.de/tags/test/</guid>
       <description></description>
     </item>
     
