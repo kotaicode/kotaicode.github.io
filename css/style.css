@@ -661,20 +661,20 @@ h1, h2, h3, h4, h5, h6 {
   transform: scale(1.1);
 }
 
-#fh5co-services, #fh5co-testimonials, #fh5co-counters, #fh5co-work, #fh5co-contact, #fh5co-about, #fh5co-team, #fh5co-technologies {
+#fh5co-services, #fh5co-testimonials, #fh5co-counters, #fh5co-work, #fh5co-contact, #fh5co-about, #fh5co-team, #fh5co-technologies, #fh5co-clients {
   padding: 4em 0;
 }
 @media screen and (max-width: 768px) {
-  #fh5co-services, #fh5co-testimonials, #fh5co-counters, #fh5co-work, #fh5co-contact, #fh5co-about, #fh5co-team, #fh5co-technologies {
+  #fh5co-services, #fh5co-testimonials, #fh5co-counters, #fh5co-work, #fh5co-contact, #fh5co-about, #fh5co-team, #fh5co-technologies, #fh5co-clients {
     padding: 2em 0;
   }
 }
 
-#fh5co-services, #fh5co-work, #fh5co-counters, #fh5co-technologies {
+#fh5co-services, #fh5co-work, #fh5co-counters, #fh5co-technologies, #fh5co-clients {
   padding: 7em 0;
 }
 @media screen and (max-width: 768px) {
-  #fh5co-services, #fh5co-work, #fh5co-counters, #fh5co-technologies {
+  #fh5co-services, #fh5co-work, #fh5co-counters, #fh5co-technologies, #fh5co-clients {
     padding: 4em 0;
   }
 }
@@ -771,7 +771,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-technologies .fh5co-service {
   padding-right: 30px;
-  min-height: 320px;
+  min-height: 250px;
 }
 #fh5co-technologies h3 {
   font-size: 24px;
@@ -793,6 +793,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-technologies .section-heading h2.left-border:after {
   background: rgba(255, 255, 255, 0.3);
+}
+
+
+#fh5co-clients .fh5co-service {
+  padding-right: 30px;
+  min-height: 175px;
+
+}
+
+#fh5co-clients {
+  overflow: hidden;
+  position: relative;
+  color: rgba(255, 255, 255, 0.95);
 }
 
 #fh5co-counters {
